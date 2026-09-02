@@ -1,0 +1,14 @@
+{
+    "linear": {
+        "kp": 1.0,
+        "ki": 0.0,
+        "kd": 0.2
+    },
+    "angular": {
+        "kp": 2.0,
+        "ki": 0.0,
+        "kd": 0.4
+    },
+    "ahrs_offset": 0.0,
+    "wp_reach_threshold": 5.0
+}

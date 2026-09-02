@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging / build
+build/
+dist/
+installer_output/
+*.egg-info/
+*.egg
+
+# Archives / Zip files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Logs and telemetry data
+logs/
+*.csv
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+.DS_Store

@@ -1,0 +1,43 @@
+{
+    "axes": {
+        "rc1": {
+            "axis": 3,
+            "reverse": true
+        },
+        "rc2": {
+            "axis": 2,
+            "reverse": false
+        },
+        "rc3": {
+            "axis": null,
+            "reverse": false
+        }
+    },
+    "buttons": {
+        "arm": {
+            "button": 3
+        },
+        "disarm": {
+            "button": 2
+        },
+        "start": {
+            "button": 15
+        },
+        "stop": {
+            "button": null
+        },
+        "rth": {
+            "button": null
+        },
+        "light": {
+            "button": 0
+        },
+        "camera": {
+            "button": 1
+        }
+    },
+    "thruster_limits": {
+        "min": 1400,
+        "max": 1600
+    }
+}
